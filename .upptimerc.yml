@@ -16,6 +16,12 @@ sites:
     url: https://m3.codeforces.com
   - name: sta
     url: https://sta.codeforces.com
+  - name: codeforc.es
+    url: https://codeforc.es
+  - name: ml
+    url: https://codeforces.ml
+  - name: cc
+    url: https://codeforces.cc
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
