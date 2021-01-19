@@ -16,6 +16,12 @@ sites:
     url: https://m3.codeforces.com
   - name: sta
     url: https://sta.codeforces.com
+  - name: assets
+    url: https://assets.codeforces.com
+  - name: st
+    url: https://st.codeforces.com
+  - name: userpic
+    url: https://userpic.codeforces.com
   - name: codeforc.es
     url: https://codeforc.es
   - name: ml
