@@ -28,7 +28,7 @@ status-website:
   cname: codeforces.uptime.xcpcio.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://sta.codeforces.com/s/43864/favicon-96x96.png
+  logoUrl: https://raw.githubusercontent.com/XCPCIO/codeforces.uptime/master/favicon-96x96.png
   name: Codeforces uptime
   navbar:
     - title: Status
