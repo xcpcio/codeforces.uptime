@@ -2,6 +2,9 @@
 owner: XCPCIO # Your GitHub username
 repo: codeforces.uptime # Your GitHub repository name
 
+assignees:
+  - Dup4
+
 # Add your sites here
 sites:
   - name: Codeforces
