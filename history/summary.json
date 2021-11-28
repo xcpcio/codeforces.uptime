@@ -261,7 +261,7 @@
     "timeMonth": 211,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2021-11-28": 67,
+      "2021-11-28": 175,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
       "2021-11-25": 1440,
@@ -701,9 +701,9 @@
     "url": "https://codeforces.ga",
     "icon": "https://favicons.githubusercontent.com/codeforces.ga",
     "slug": "ga",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "98.46%",
@@ -713,6 +713,7 @@
     "timeMonth": 1894,
     "timeYear": 2020,
     "dailyMinutesDown": {
+      "2021-11-28": 0,
       "2021-11-26": 40,
       "2021-11-13": 51,
       "2021-11-07": 23,
