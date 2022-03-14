@@ -100,17 +100,16 @@
     "slug": "m1",
     "status": "up",
     "uptime": "98.12%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "97.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "97.87%",
     "time": 1331,
     "timeDay": 897,
     "timeWeek": 2904,
     "timeMonth": 1617,
     "timeYear": 1342,
     "dailyMinutesDown": {
-      "2022-03-13": 14,
       "2022-03-12": 18,
       "2022-03-10": 27,
       "2022-03-04": 19,
@@ -186,10 +185,10 @@
     "icon": "https://favicons.githubusercontent.com/m2.codeforces.com",
     "slug": "m2",
     "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "98.37%",
+    "uptime": "98.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "97.90%",
     "time": 936,
     "timeDay": 657,
@@ -197,7 +196,6 @@
     "timeMonth": 1184,
     "timeYear": 932,
     "dailyMinutesDown": {
-      "2022-03-13": 12,
       "2022-03-12": 17,
       "2022-03-10": 27,
       "2022-02-28": 17,
@@ -260,9 +258,9 @@
     "slug": "m3",
     "status": "up",
     "uptime": "98.06%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "97.78%",
     "time": 1229,
     "timeDay": 1070,
@@ -270,7 +268,6 @@
     "timeMonth": 1446,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2022-03-13": 11,
       "2022-03-12": 15,
       "2022-02-28": 15,
       "2022-02-17": 304,
@@ -336,7 +333,8 @@
     "timeMonth": 147,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2022-03-13": 1416,
+      "2022-03-14": 82,
+      "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
@@ -699,8 +697,7 @@
       "2021-03-18": 1440,
       "2021-03-17": 1440,
       "2021-03-16": 1440,
-      "2021-03-15": 1440,
-      "2021-03-14": 1440
+      "2021-03-15": 1440
     }
   },
   {
@@ -769,8 +766,7 @@
       "2021-04-24": 22,
       "2021-04-22": 16,
       "2021-03-17": 137,
-      "2021-03-16": 327,
-      "2021-03-14": 61
+      "2021-03-16": 327
     }
   },
   {
