@@ -101,17 +101,16 @@
     "slug": "m1",
     "status": "up",
     "uptime": "98.13%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "97.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "97.87%",
     "time": 1330,
     "timeDay": 1148,
     "timeWeek": 2709,
     "timeMonth": 1611,
     "timeYear": 1342,
     "dailyMinutesDown": {
-      "2022-03-14": 14,
       "2022-03-12": 18,
       "2022-03-10": 27,
       "2022-03-04": 19,
@@ -177,8 +176,7 @@
       "2021-04-30": 71,
       "2021-04-29": 48,
       "2021-03-17": 93,
-      "2021-03-16": 392,
-      "2021-03-15": 161
+      "2021-03-16": 392
     }
   },
   {
@@ -188,9 +186,9 @@
     "slug": "m2",
     "status": "up",
     "uptime": "98.16%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "98.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "98.45%",
     "uptimeYear": "97.90%",
     "time": 935,
     "timeDay": 739,
@@ -198,7 +196,6 @@
     "timeMonth": 833,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2022-03-14": 13,
       "2022-03-12": 17,
       "2022-03-10": 27,
       "2022-02-28": 17,
@@ -260,10 +257,10 @@
     "icon": "https://favicons.githubusercontent.com/m3.codeforces.com",
     "slug": "m3",
     "status": "up",
-    "uptime": "98.06%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.77%",
+    "uptime": "98.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "97.78%",
     "time": 1230,
     "timeDay": 1535,
@@ -271,7 +268,6 @@
     "timeMonth": 1326,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2022-03-14": 11,
       "2022-03-12": 15,
       "2022-02-28": 15,
       "2022-02-17": 304,
@@ -316,8 +312,7 @@
       "2021-05-03": 348,
       "2021-04-21": 11,
       "2021-03-17": 93,
-      "2021-03-16": 390,
-      "2021-03-15": 159
+      "2021-03-16": 390
     }
   },
   {
@@ -337,7 +332,8 @@
     "timeMonth": 141,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2022-03-14": 1416,
+      "2022-03-15": 85,
+      "2022-03-14": 1440,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
@@ -700,8 +696,7 @@
       "2021-03-19": 1440,
       "2021-03-18": 1440,
       "2021-03-17": 1440,
-      "2021-03-16": 1440,
-      "2021-03-15": 1440
+      "2021-03-16": 1440
     }
   },
   {
@@ -712,7 +707,7 @@
     "status": "up",
     "uptime": "98.53%",
     "uptimeDay": "93.13%",
-    "uptimeWeek": "89.67%",
+    "uptimeWeek": "90.75%",
     "uptimeMonth": "96.45%",
     "uptimeYear": "98.43%",
     "time": 2573,
@@ -788,7 +783,7 @@
     "time": 772,
     "timeDay": 456,
     "timeWeek": 634,
-    "timeMonth": 712,
+    "timeMonth": 717,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2022-02-27": 61,
@@ -848,7 +843,7 @@
     "status": "up",
     "uptime": "97.31%",
     "uptimeDay": "92.44%",
-    "uptimeWeek": "89.06%",
+    "uptimeWeek": "90.14%",
     "uptimeMonth": "94.82%",
     "uptimeYear": "96.97%",
     "time": 2074,
