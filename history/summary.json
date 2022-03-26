@@ -103,9 +103,9 @@
     "url": "https://m1.codeforces.com",
     "icon": "https://favicons.githubusercontent.com/m1.codeforces.com",
     "slug": "m1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.13%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.86%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "97.93%",
@@ -115,6 +115,7 @@
     "timeMonth": 1665,
     "timeYear": 1337,
     "dailyMinutesDown": {
+      "2022-03-26": 0,
       "2022-03-23": 316,
       "2022-03-15": 18,
       "2022-03-12": 18,
@@ -335,7 +336,7 @@
     "timeMonth": 140,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2022-03-26": 1107,
+      "2022-03-26": 1230,
       "2022-03-25": 1440,
       "2022-03-24": 1440,
       "2022-03-23": 1440,
