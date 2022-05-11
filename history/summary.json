@@ -33,19 +33,20 @@
     "url": "https://polygon.codeforces.com",
     "icon": "https://favicons.githubusercontent.com/polygon.codeforces.com",
     "slug": "polygon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.61%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.60%",
     "time": 1115,
-    "timeDay": 756,
-    "timeWeek": 821,
-    "timeMonth": 800,
-    "timeYear": 1075,
+    "timeDay": 804,
+    "timeWeek": 825,
+    "timeMonth": 802,
+    "timeYear": 1074,
     "dailyMinutesDown": {
-      "2022-05-10": 0,
+      "2022-05-11": 1,
+      "2022-05-10": 8,
       "2022-04-22": 41,
       "2022-04-21": 7,
       "2022-04-20": 40,
@@ -342,7 +343,8 @@
     "timeMonth": 144,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2022-05-10": 1432,
+      "2022-05-11": 1,
+      "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
@@ -705,8 +707,7 @@
       "2021-05-15": 1440,
       "2021-05-14": 1440,
       "2021-05-13": 1440,
-      "2021-05-12": 1440,
-      "2021-05-11": 1440
+      "2021-05-12": 1440
     }
   },
   {
@@ -781,7 +782,7 @@
     "uptime": "97.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.66%",
+    "uptimeMonth": "74.68%",
     "uptimeYear": "96.30%",
     "time": 759,
     "timeDay": 759,
@@ -843,8 +844,7 @@
       "2021-05-18": 17,
       "2021-05-17": 56,
       "2021-05-14": 16,
-      "2021-05-12": 31,
-      "2021-05-11": 9
+      "2021-05-12": 31
     }
   },
   {
