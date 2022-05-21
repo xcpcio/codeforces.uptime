@@ -36,12 +36,12 @@
     "status": "up",
     "uptime": "99.57%",
     "uptimeDay": "97.70%",
-    "uptimeWeek": "99.36%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.57%",
     "time": 1109,
     "timeDay": 924,
-    "timeWeek": 848,
+    "timeWeek": 838,
     "timeMonth": 812,
     "timeYear": 1075,
     "dailyMinutesDown": {
@@ -348,7 +348,7 @@
     "timeMonth": 151,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2022-05-21": 26,
+      "2022-05-21": 94,
       "2022-05-20": 1440,
       "2022-05-19": 1440,
       "2022-05-18": 1440,
