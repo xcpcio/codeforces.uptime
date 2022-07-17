@@ -35,19 +35,20 @@
     "url": "https://polygon.codeforces.com",
     "icon": "https://favicons.githubusercontent.com/polygon.codeforces.com",
     "slug": "polygon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "99.32%",
     "time": 1143,
-    "timeDay": 928,
-    "timeWeek": 898,
-    "timeMonth": 1025,
+    "timeDay": 879,
+    "timeWeek": 892,
+    "timeMonth": 1021,
     "timeYear": 1124,
     "dailyMinutesDown": {
-      "2022-07-16": 0,
+      "2022-07-17": 64,
+      "2022-07-16": 5,
       "2022-07-14": 17,
       "2022-07-13": 109,
       "2022-07-12": 67,
@@ -358,8 +359,7 @@
       "2021-09-03": 10,
       "2021-08-05": 10,
       "2021-08-03": 109,
-      "2021-08-02": 193,
-      "2021-07-17": 10
+      "2021-08-02": 193
     }
   },
   {
@@ -379,7 +379,8 @@
     "timeMonth": 143,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2022-07-16": 1435,
+      "2022-07-17": 65,
+      "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
@@ -742,8 +743,7 @@
       "2021-07-21": 1440,
       "2021-07-20": 1440,
       "2021-07-19": 1440,
-      "2021-07-18": 1440,
-      "2021-07-17": 1440
+      "2021-07-18": 1440
     }
   },
   {
@@ -893,18 +893,19 @@
     "icon": "https://favicons.githubusercontent.com/codeforces.ga",
     "slug": "ga",
     "status": "down",
-    "uptime": "89.58%",
+    "uptime": "89.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.71%",
+    "uptimeYear": "85.70%",
     "time": 2089,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2023,
     "dailyMinutesDown": {
-      "2022-07-16": 1435,
+      "2022-07-17": 65,
+      "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
