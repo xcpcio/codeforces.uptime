@@ -33,19 +33,20 @@
     "url": "https://polygon.codeforces.com",
     "icon": "https://favicons.githubusercontent.com/polygon.codeforces.com",
     "slug": "polygon",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.98%",
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "95.50%",
     "uptimeWeek": "97.50%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.31%",
-    "time": 1125,
-    "timeDay": 926,
-    "timeWeek": 855,
-    "timeMonth": 996,
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "99.29%",
+    "time": 1117,
+    "timeDay": 824,
+    "timeWeek": 841,
+    "timeMonth": 990,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2022-08-13": 0,
+      "2022-08-14": 59,
+      "2022-08-13": 6,
       "2022-08-08": 178,
       "2022-08-07": 68,
       "2022-08-06": 6,
@@ -379,7 +380,8 @@
     "timeMonth": 142,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2022-08-13": 1435,
+      "2022-08-14": 60,
+      "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
       "2022-08-10": 1440,
@@ -742,8 +744,7 @@
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
-      "2021-08-15": 1440,
-      "2021-08-14": 1440
+      "2021-08-15": 1440
     }
   },
   {
@@ -881,8 +882,7 @@
       "2021-09-20": 70,
       "2021-09-18": 70,
       "2021-09-17": 1,
-      "2021-08-15": 104,
-      "2021-08-14": 37
+      "2021-08-15": 104
     }
   },
   {
@@ -891,18 +891,19 @@
     "icon": "https://favicons.githubusercontent.com/codeforces.ga",
     "slug": "ga",
     "status": "down",
-    "uptime": "85.19%",
+    "uptime": "85.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.09%",
+    "uptimeYear": "78.08%",
     "time": 2114,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2041,
     "dailyMinutesDown": {
-      "2022-08-13": 1435,
+      "2022-08-14": 60,
+      "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
       "2022-08-10": 1440,
