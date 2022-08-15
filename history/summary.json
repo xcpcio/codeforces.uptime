@@ -33,19 +33,20 @@
     "url": "https://polygon.codeforces.com",
     "icon": "https://favicons.githubusercontent.com/polygon.codeforces.com",
     "slug": "polygon",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "95.50%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "99.29%",
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "95.37%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "99.28%",
     "time": 1118,
-    "timeDay": 697,
-    "timeWeek": 811,
-    "timeMonth": 993,
-    "timeYear": 1107,
+    "timeDay": 680,
+    "timeWeek": 798,
+    "timeMonth": 986,
+    "timeYear": 1106,
     "dailyMinutesDown": {
-      "2022-08-14": 59,
+      "2022-08-15": 61,
+      "2022-08-14": 65,
       "2022-08-13": 6,
       "2022-08-08": 178,
       "2022-08-07": 68,
@@ -130,8 +131,7 @@
       "2021-10-12": 15,
       "2021-10-07": 34,
       "2021-10-05": 10,
-      "2021-08-17": 20,
-      "2021-08-15": 18
+      "2021-08-17": 20
     }
   },
   {
@@ -380,7 +380,8 @@
     "timeMonth": 140,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2022-08-14": 1435,
+      "2022-08-15": 61,
+      "2022-08-14": 1440,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
@@ -743,8 +744,7 @@
       "2021-08-19": 1440,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
-      "2021-08-16": 1440,
-      "2021-08-15": 1440
+      "2021-08-16": 1440
     }
   },
   {
@@ -881,8 +881,7 @@
       "2021-10-06": 8,
       "2021-09-20": 70,
       "2021-09-18": 70,
-      "2021-09-17": 1,
-      "2021-08-15": 104
+      "2021-09-17": 1
     }
   },
   {
@@ -891,18 +890,19 @@
     "icon": "https://favicons.githubusercontent.com/codeforces.ga",
     "slug": "ga",
     "status": "down",
-    "uptime": "85.04%",
+    "uptime": "85.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.81%",
+    "uptimeYear": "77.80%",
     "time": 2116,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2043,
     "dailyMinutesDown": {
-      "2022-08-14": 1435,
+      "2022-08-15": 62,
+      "2022-08-14": 1440,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
