@@ -37,19 +37,20 @@
     "url": "https://polygon.codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/polygon.codeforces.com.ico",
     "slug": "polygon",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "87.14%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "99.07%",
-    "time": 1069,
-    "timeDay": 966,
-    "timeWeek": 907,
-    "timeMonth": 1253,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "86.44%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "99.06%",
+    "time": 1070,
+    "timeDay": 1041,
+    "timeWeek": 939,
+    "timeMonth": 1252,
     "timeYear": 1144,
     "dailyMinutesDown": {
-      "2022-10-16": 185,
+      "2022-10-17": 48,
+      "2022-10-16": 193,
       "2022-10-03": 74,
       "2022-10-02": 132,
       "2022-10-01": 89,
@@ -382,7 +383,7 @@
     "uptime": "7.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.59%",
+    "uptimeMonth": "59.46%",
     "uptimeYear": "12.77%",
     "time": 748,
     "timeDay": 57,
@@ -390,7 +391,8 @@
     "timeMonth": 2764,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2022-10-16": 1433,
+      "2022-10-17": 49,
+      "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
@@ -718,8 +720,7 @@
       "2021-10-21": 1440,
       "2021-10-20": 1440,
       "2021-10-19": 1440,
-      "2021-10-18": 1440,
-      "2021-10-17": 1440
+      "2021-10-18": 1440
     }
   },
   {
@@ -775,8 +776,7 @@
       "2021-11-26": 23,
       "2021-11-19": 17,
       "2021-10-25": 21,
-      "2021-10-24": 11,
-      "2021-10-17": 30
+      "2021-10-24": 11
     }
   },
   {
@@ -858,14 +858,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.57%",
+    "uptimeYear": "60.56%",
     "time": 2129,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2014,
     "dailyMinutesDown": {
-      "2022-10-16": 1433,
+      "2022-10-17": 49,
+      "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
