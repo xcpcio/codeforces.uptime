@@ -38,19 +38,20 @@
     "url": "https://polygon.codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/polygon.codeforces.com.ico",
     "slug": "polygon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "96.84%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "98.98%",
+    "uptimeDay": "96.64%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.97%",
     "time": 1094,
-    "timeDay": 937,
-    "timeWeek": 1313,
-    "timeMonth": 1090,
-    "timeYear": 1154,
+    "timeDay": 809,
+    "timeWeek": 1267,
+    "timeMonth": 1084,
+    "timeYear": 1153,
     "dailyMinutesDown": {
-      "2022-11-08": 38,
+      "2022-11-09": 41,
+      "2022-11-08": 45,
       "2022-11-07": 7,
       "2022-11-05": 82,
       "2022-11-04": 8,
@@ -240,8 +241,7 @@
       "2021-12-01": 17,
       "2021-11-29": 47,
       "2021-11-18": 19,
-      "2021-11-15": 70,
-      "2021-11-09": 18
+      "2021-11-15": 70
     }
   },
   {
@@ -389,7 +389,8 @@
     "timeMonth": 149,
     "timeYear": 904,
     "dailyMinutesDown": {
-      "2022-11-08": 1434,
+      "2022-11-09": 42,
+      "2022-11-08": 1440,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
@@ -717,8 +718,7 @@
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
-      "2021-11-10": 1440,
-      "2021-11-09": 1440
+      "2021-11-10": 1440
     }
   },
   {
@@ -848,18 +848,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.ga.ico",
     "slug": "ga",
     "status": "down",
-    "uptime": "73.93%",
+    "uptime": "73.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.28%",
+    "uptimeYear": "54.27%",
     "time": 2011,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2009,
     "dailyMinutesDown": {
-      "2022-11-08": 1434,
+      "2022-11-09": 42,
+      "2022-11-08": 1440,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
