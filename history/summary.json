@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "94.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.31%",
-    "uptimeMonth": "18.64%",
+    "uptimeWeek": "89.65%",
+    "uptimeMonth": "18.72%",
     "uptimeYear": "88.60%",
     "time": 1289,
     "timeDay": 2668,
@@ -80,19 +80,20 @@
     "url": "https://polygon.codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/polygon.codeforces.com.ico",
     "slug": "polygon",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.98%",
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "98.89%",
-    "time": 1228,
-    "timeDay": 898,
-    "timeWeek": 1205,
-    "timeMonth": 1851,
+    "time": 1229,
+    "timeDay": 982,
+    "timeWeek": 1199,
+    "timeMonth": 1836,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2023-01-16": 1,
+      "2023-01-17": 27,
+      "2023-01-16": 8,
       "2023-01-11": 34,
       "2023-01-10": 81,
       "2023-01-09": 3,
@@ -436,7 +437,8 @@
     "timeMonth": 161,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2023-01-16": 1433,
+      "2023-01-17": 28,
+      "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
@@ -764,8 +766,7 @@
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
-      "2022-01-18": 1440,
-      "2022-01-17": 1440
+      "2022-01-18": 1440
     }
   },
   {
@@ -814,8 +815,7 @@
       "2022-03-07": 515,
       "2022-02-28": 22,
       "2022-01-19": 813,
-      "2022-01-18": 1440,
-      "2022-01-17": 772
+      "2022-01-18": 1440
     }
   },
   {
@@ -880,18 +880,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.ga.ico",
     "slug": "ga",
     "status": "down",
-    "uptime": "66.92%",
+    "uptime": "66.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.15%",
+    "uptimeYear": "36.14%",
     "time": 2000,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1833,
     "dailyMinutesDown": {
-      "2023-01-16": 1433,
+      "2023-01-17": 28,
+      "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
@@ -1131,8 +1132,7 @@
       "2022-02-21": 76,
       "2022-01-26": 67,
       "2022-01-19": 814,
-      "2022-01-18": 1440,
-      "2022-01-17": 772
+      "2022-01-18": 1440
     }
   }
 ]
