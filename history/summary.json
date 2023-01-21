@@ -8,7 +8,7 @@
     "uptime": "94.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "31.77%",
+    "uptimeMonth": "32.03%",
     "uptimeYear": "88.60%",
     "time": 1287,
     "timeDay": 1401,
@@ -82,13 +82,13 @@
     "slug": "polygon",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "94.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.25%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "98.87%",
     "time": 1233,
-    "timeDay": 1111,
-    "timeWeek": 1208,
+    "timeDay": 1135,
+    "timeWeek": 960,
     "timeMonth": 1740,
     "timeYear": 1251,
     "dailyMinutesDown": {
@@ -373,9 +373,9 @@
     "slug": "m3",
     "status": "up",
     "uptime": "98.26%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "98.62%",
     "time": 1407,
     "timeDay": 1237,
@@ -383,7 +383,6 @@
     "timeMonth": 1222,
     "timeYear": 1444,
     "dailyMinutesDown": {
-      "2023-01-20": 10,
       "2022-12-23": 241,
       "2022-12-13": 15,
       "2022-11-17": 122,
@@ -438,7 +437,8 @@
     "timeMonth": 158,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2023-01-20": 1421,
+      "2023-01-21": 96,
+      "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
@@ -766,8 +766,7 @@
       "2022-01-25": 1440,
       "2022-01-24": 1440,
       "2022-01-23": 1440,
-      "2022-01-22": 1440,
-      "2022-01-21": 1440
+      "2022-01-22": 1440
     }
   },
   {
@@ -869,8 +868,7 @@
       "2022-02-10": 482,
       "2022-02-09": 112,
       "2022-01-25": 314,
-      "2022-01-24": 441,
-      "2022-01-21": 16
+      "2022-01-24": 441
     }
   },
   {
@@ -879,18 +877,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.ga.ico",
     "slug": "ga",
     "status": "down",
-    "uptime": "66.55%",
+    "uptime": "66.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.63%",
+    "uptimeYear": "35.61%",
     "time": 2005,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1762,
     "dailyMinutesDown": {
-      "2023-01-20": 1421,
+      "2023-01-21": 96,
+      "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
