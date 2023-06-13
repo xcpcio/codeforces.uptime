@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.com.ico",
     "slug": "codeforces",
     "status": "up",
-    "uptime": "94.95%",
+    "uptime": "94.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "88.27%",
-    "time": 1292,
-    "timeDay": 658,
-    "timeWeek": 573,
-    "timeMonth": 651,
+    "time": 1311,
+    "timeDay": 0,
+    "timeWeek": 567,
+    "timeMonth": 648,
     "timeYear": 1333,
     "dailyMinutesDown": {
       "2023-05-22": 16,
@@ -98,10 +98,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.66%",
     "time": 1240,
-    "timeDay": 614,
-    "timeWeek": 586,
-    "timeMonth": 714,
-    "timeYear": 1293,
+    "timeDay": 0,
+    "timeWeek": 599,
+    "timeMonth": 719,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2023-05-18": 20,
       "2023-05-03": 239,
@@ -236,10 +236,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.52%",
     "time": 1633,
-    "timeDay": 946,
-    "timeWeek": 966,
-    "timeMonth": 926,
-    "timeYear": 1676,
+    "timeDay": 0,
+    "timeWeek": 969,
+    "timeMonth": 927,
+    "timeYear": 1677,
     "dailyMinutesDown": {
       "2023-05-17": 15,
       "2023-04-30": 19,
@@ -268,8 +268,7 @@
       "2022-08-06": 26,
       "2022-07-29": 19,
       "2022-07-13": 27,
-      "2022-06-14": 481,
-      "2022-06-13": 700
+      "2022-06-14": 481
     }
   },
   {
@@ -280,12 +279,12 @@
     "status": "up",
     "uptime": "97.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "96.03%",
     "time": 1092,
-    "timeDay": 874,
-    "timeWeek": 859,
+    "timeDay": 0,
+    "timeWeek": 874,
     "timeMonth": 794,
     "timeYear": 1142,
     "dailyMinutesDown": {
@@ -348,8 +347,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.82%",
     "time": 1331,
-    "timeDay": 917,
-    "timeWeek": 885,
+    "timeDay": 0,
+    "timeWeek": 887,
     "timeMonth": 836,
     "timeYear": 1353,
     "dailyMinutesDown": {
@@ -378,8 +377,7 @@
       "2022-08-09": 342,
       "2022-07-20": 37,
       "2022-06-15": 1058,
-      "2022-06-14": 1440,
-      "2022-06-13": 659
+      "2022-06-14": 1440
     }
   },
   {
@@ -388,18 +386,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforc.es.ico",
     "slug": "codeforc-es",
     "status": "down",
-    "uptime": "5.34%",
+    "uptime": "5.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "12.77%",
     "time": 731,
-    "timeDay": 245,
-    "timeWeek": 140,
-    "timeMonth": 143,
-    "timeYear": 885,
+    "timeDay": 0,
+    "timeWeek": 142,
+    "timeMonth": 140,
+    "timeYear": 887,
     "dailyMinutesDown": {
-      "2023-06-12": 108,
+      "2023-06-13": 102,
+      "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
@@ -727,8 +726,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
-      "2022-06-14": 1440,
-      "2022-06-13": 1440
+      "2022-06-14": 1440
     }
   },
   {
@@ -743,10 +741,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
     "time": 1627,
-    "timeDay": 1200,
-    "timeWeek": 1211,
-    "timeMonth": 1341,
-    "timeYear": 1680,
+    "timeDay": 0,
+    "timeWeek": 1209,
+    "timeMonth": 1344,
+    "timeYear": 1681,
     "dailyMinutesDown": {
       "2023-05-03": 255,
       "2023-04-21": 295,
@@ -788,18 +786,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
     "status": "down",
-    "uptime": "91.47%",
+    "uptime": "91.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.60%",
+    "uptimeYear": "83.32%",
     "time": 866,
-    "timeDay": 469,
-    "timeWeek": 510,
-    "timeMonth": 464,
+    "timeDay": 0,
+    "timeWeek": 512,
+    "timeMonth": 463,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2023-06-12": 108,
+      "2023-06-13": 102,
+      "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
@@ -885,7 +884,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.ga.ico",
     "slug": "ga",
     "status": "down",
-    "uptime": "55.72%",
+    "uptime": "55.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -896,7 +895,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-12": 108,
+      "2023-06-13": 102,
+      "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
@@ -1259,8 +1259,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
-      "2022-06-14": 1440,
-      "2022-06-13": 1440
+      "2022-06-14": 1440
     }
   }
 ]
