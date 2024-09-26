@@ -16,7 +16,7 @@
     "timeMonth": 102,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2024-09-26": 1118,
+      "2024-09-26": 1140,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
@@ -129,13 +129,13 @@
     "url": "https://polygon.codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/polygon.codeforces.com.ico",
     "slug": "polygon",
-    "status": "up",
+    "status": "down",
     "uptime": "97.68%",
-    "uptimeDay": "91.90%",
+    "uptimeDay": "91.88%",
     "uptimeWeek": "97.62%",
     "uptimeMonth": "63.15%",
-    "uptimeYear": "91.44%",
-    "time": 1086,
+    "uptimeYear": "91.45%",
+    "time": 1087,
     "timeDay": 8596,
     "timeWeek": 4301,
     "timeMonth": 1863,
@@ -240,8 +240,7 @@
       "2024-03-16": 126,
       "2024-03-06": 30,
       "2024-03-02": 27,
-      "2024-02-29": 76,
-      "2024-02-27": 29
+      "2024-02-29": 76
     }
   },
   {
@@ -298,7 +297,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/m2.codeforces.com.ico",
     "slug": "m2",
     "status": "down",
-    "uptime": "95.98%",
+    "uptime": "95.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -309,7 +308,7 @@
     "timeMonth": 79,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2024-09-26": 1118,
+      "2024-09-26": 1140,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
@@ -473,7 +472,7 @@
     "timeMonth": 90,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-09-26": 1119,
+      "2024-09-26": 1141,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
@@ -846,7 +845,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.ml.ico",
     "slug": "ml",
     "status": "down",
-    "uptime": "66.89%",
+    "uptime": "66.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -857,7 +856,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-26": 1119,
+      "2024-09-26": 1141,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
@@ -1274,7 +1273,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-26": 1119,
+      "2024-09-26": 1141,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
