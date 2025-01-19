@@ -16,7 +16,7 @@
     "timeMonth": 96,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2025-01-19": 105,
+      "2025-01-19": 129,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -235,18 +235,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/polygon.codeforces.com.ico",
     "slug": "polygon",
     "status": "down",
-    "uptime": "95.63%",
+    "uptime": "95.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.50%",
+    "uptimeYear": "82.49%",
     "time": 1192,
     "timeDay": 136,
     "timeWeek": 89,
     "timeMonth": 92,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2025-01-19": 105,
+      "2025-01-19": 129,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -449,7 +449,7 @@
     "timeMonth": 84,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-01-19": 105,
+      "2025-01-19": 130,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -711,7 +711,7 @@
     "timeMonth": 97,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-01-19": 105,
+      "2025-01-19": 130,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -1095,7 +1095,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 105,
+      "2025-01-19": 130,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -1467,18 +1467,19 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "89.72%",
+    "uptimeDay": "89.69%",
     "uptimeWeek": "92.42%",
     "uptimeMonth": "92.89%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 916,
     "timeDay": 1326,
     "timeWeek": 1032,
     "timeMonth": 1042,
     "timeYear": 982,
     "dailyMinutesDown": {
+      "2025-01-19": 0,
       "2025-01-18": 148,
       "2025-01-17": 170,
       "2025-01-16": 133,
@@ -1508,7 +1509,7 @@
       "2024-12-20": 20,
       "2024-12-18": 185,
       "2024-12-17": 51,
-      "2024-12-16": 215
+      "2024-12-16": 189
     }
   },
   {
@@ -1528,7 +1529,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 106,
+      "2025-01-19": 130,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
