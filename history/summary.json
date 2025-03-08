@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.10%",
     "uptimeMonth": "7.98%",
-    "uptimeYear": "41.59%",
+    "uptimeYear": "41.58%",
     "time": 422,
     "timeDay": 153,
     "timeWeek": 161,
     "timeMonth": 126,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2025-03-08": 434,
+      "2025-03-08": 475,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -285,7 +285,7 @@
     "timeMonth": 122,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2025-03-08": 435,
+      "2025-03-08": 475,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -541,7 +541,7 @@
     "timeMonth": 99,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-03-08": 435,
+      "2025-03-08": 475,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -807,7 +807,7 @@
     "uptimeYear": "99.26%",
     "time": 727,
     "timeDay": 616,
-    "timeWeek": 658,
+    "timeWeek": 660,
     "timeMonth": 695,
     "timeYear": 698,
     "dailyMinutesDown": {
@@ -862,7 +862,7 @@
     "timeMonth": 95,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-03-08": 435,
+      "2025-03-08": 476,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -1246,7 +1246,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-08": 435,
+      "2025-03-08": 476,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -1618,16 +1618,16 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "42.56%",
-    "uptimeWeek": "85.71%",
+    "uptimeDay": "42.53%",
+    "uptimeWeek": "85.99%",
     "uptimeMonth": "92.69%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.35%",
     "time": 1003,
     "timeDay": 1024,
-    "timeWeek": 1126,
-    "timeMonth": 1209,
+    "timeWeek": 1130,
+    "timeMonth": 1214,
     "timeYear": 1068,
     "dailyMinutesDown": {
       "2025-03-08": 271,
@@ -1659,8 +1659,7 @@
       "2025-02-09": 74,
       "2025-02-08": 48,
       "2025-02-07": 175,
-      "2025-02-06": 58,
-      "2025-02-05": 16
+      "2025-02-06": 58
     }
   },
   {
@@ -1680,7 +1679,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-08": 435,
+      "2025-03-08": 476,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
