@@ -16,7 +16,7 @@
     "timeMonth": 100,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2025-04-29": 1227,
+      "2025-04-29": 1254,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
@@ -327,7 +327,7 @@
     "timeMonth": 95,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2025-04-29": 1228,
+      "2025-04-29": 1254,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
@@ -631,14 +631,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.38%",
+    "uptimeYear": "27.37%",
     "time": 230,
     "timeDay": 74,
     "timeWeek": 80,
     "timeMonth": 90,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-04-29": 1228,
+      "2025-04-29": 1254,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
@@ -1018,7 +1018,7 @@
     "timeMonth": 139,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-04-29": 1228,
+      "2025-04-29": 1254,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
@@ -1402,7 +1402,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-29": 1228,
+      "2025-04-29": 1254,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
@@ -1774,13 +1774,13 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "94.22%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "94.21%",
     "uptimeMonth": "93.61%",
-    "uptimeYear": "99.39%",
-    "time": 1014,
+    "uptimeYear": "99.40%",
+    "time": 1015,
     "timeDay": 413,
     "timeWeek": 427,
     "timeMonth": 909,
@@ -1819,7 +1819,7 @@
       "2025-03-29": 54,
       "2025-03-28": 115,
       "2025-03-27": 107,
-      "2025-03-26": 121
+      "2025-03-26": 88
     }
   },
   {
@@ -1828,7 +1828,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.ga.ico",
     "slug": "ga",
     "status": "down",
-    "uptime": "31.18%",
+    "uptime": "31.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1839,7 +1839,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-29": 1228,
+      "2025-04-29": 1254,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
