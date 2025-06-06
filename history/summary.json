@@ -16,7 +16,7 @@
     "timeMonth": 116,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-06-06": 817,
+      "2025-06-06": 850,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -357,7 +357,7 @@
     "timeMonth": 110,
     "timeYear": 1017,
     "dailyMinutesDown": {
-      "2025-06-06": 817,
+      "2025-06-06": 851,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -678,18 +678,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/m2.codeforces.com.ico",
     "slug": "m2",
     "status": "down",
-    "uptime": "80.82%",
+    "uptime": "80.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.29%",
+    "uptimeYear": "17.28%",
     "time": 218,
     "timeDay": 85,
     "timeWeek": 124,
     "timeMonth": 102,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-06-06": 817,
+      "2025-06-06": 851,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -1109,7 +1109,7 @@
     "timeMonth": 98,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-06-06": 818,
+      "2025-06-06": 851,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -1493,7 +1493,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-06": 818,
+      "2025-06-06": 851,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -1865,16 +1865,16 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "93.52%",
-    "uptimeWeek": "93.46%",
-    "uptimeMonth": "94.04%",
+    "uptimeDay": "93.48%",
+    "uptimeWeek": "93.45%",
+    "uptimeMonth": "94.07%",
     "uptimeYear": "99.33%",
     "time": 1003,
     "timeDay": 246,
     "timeWeek": 177,
-    "timeMonth": 973,
+    "timeMonth": 979,
     "timeYear": 1038,
     "dailyMinutesDown": {
       "2025-06-06": 93,
@@ -1915,7 +1915,7 @@
       "2025-05-01": 98,
       "2025-04-30": 58,
       "2025-04-29": 81,
-      "2025-04-27": 96
+      "2025-04-27": 69
     }
   },
   {
@@ -1935,7 +1935,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-06": 818,
+      "2025-06-06": 851,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
