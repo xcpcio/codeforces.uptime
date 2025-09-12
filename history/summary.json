@@ -356,14 +356,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.96%",
+    "uptimeYear": "25.95%",
     "time": 762,
     "timeDay": 175,
     "timeWeek": 154,
     "timeMonth": 180,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2025-09-12": 1016,
+      "2025-09-12": 1034,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
@@ -723,7 +723,7 @@
     "timeMonth": 175,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-09-12": 1016,
+      "2025-09-12": 1034,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
@@ -1203,7 +1203,7 @@
     "timeMonth": 0,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-09-12": 1016,
+      "2025-09-12": 1035,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
@@ -1587,7 +1587,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-12": 1016,
+      "2025-09-12": 1035,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
@@ -1959,16 +1959,16 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "90.40%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "97.39%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "90.37%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "99.42%",
     "time": 1044,
     "timeDay": 6602,
     "timeWeek": 2739,
-    "timeMonth": 1686,
+    "timeMonth": 1693,
     "timeYear": 1054,
     "dailyMinutesDown": {
       "2025-09-12": 138,
@@ -2034,8 +2034,7 @@
       "2025-06-18": 48,
       "2025-06-17": 59,
       "2025-06-15": 77,
-      "2025-06-13": 36,
-      "2025-06-12": 20
+      "2025-06-13": 36
     }
   },
   {
@@ -2055,7 +2054,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-12": 1016,
+      "2025-09-12": 1035,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
