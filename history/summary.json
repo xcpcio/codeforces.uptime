@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.com.ico",
     "slug": "codeforces",
     "status": "down",
-    "uptime": "78.87%",
-    "uptimeDay": "60.39%",
-    "uptimeWeek": "93.58%",
-    "uptimeMonth": "93.23%",
+    "uptime": "78.86%",
+    "uptimeDay": "59.81%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "93.21%",
     "uptimeYear": "16.13%",
     "time": 365,
     "timeDay": 153,
@@ -16,7 +16,7 @@
     "timeMonth": 907,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2025-09-27": 104,
+      "2025-09-27": 112,
       "2025-09-26": 467,
       "2025-09-24": 17,
       "2025-09-23": 60,
@@ -352,7 +352,7 @@
     "timeMonth": 155,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-09-27": 104,
+      "2025-09-27": 112,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -724,7 +724,7 @@
     "timeMonth": 143,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-09-27": 104,
+      "2025-09-27": 112,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1204,7 +1204,7 @@
     "timeMonth": 0,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-09-27": 104,
+      "2025-09-27": 112,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1588,7 +1588,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 104,
+      "2025-09-27": 112,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1960,18 +1960,19 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "73.29%",
+    "uptimeDay": "73.25%",
     "uptimeWeek": "91.29%",
     "uptimeMonth": "94.54%",
-    "uptimeYear": "99.37%",
-    "time": 1159,
+    "uptimeYear": "99.38%",
+    "time": 1160,
     "timeDay": 2511,
     "timeWeek": 2262,
     "timeMonth": 2375,
     "timeYear": 1152,
     "dailyMinutesDown": {
+      "2025-09-27": 0,
       "2025-09-26": 385,
       "2025-09-25": 158,
       "2025-09-24": 151,
@@ -2017,8 +2018,7 @@
       "2025-08-03": 196,
       "2025-08-02": 0,
       "2025-07-31": 17,
-      "2025-07-29": 46,
-      "2025-07-28": 19
+      "2025-07-29": 46
     }
   },
   {
@@ -2038,7 +2038,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 104,
+      "2025-09-27": 113,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
