@@ -7,7 +7,7 @@
     "status": "down",
     "uptime": "78.77%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "63.82%",
+    "uptimeWeek": "63.69%",
     "uptimeMonth": "91.02%",
     "uptimeYear": "16.13%",
     "time": 364,
@@ -16,7 +16,7 @@
     "timeMonth": 927,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2025-09-29": 223,
+      "2025-09-29": 236,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 467,
@@ -352,7 +352,7 @@
     "timeMonth": 161,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2025-09-29": 224,
+      "2025-09-29": 236,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
@@ -726,7 +726,7 @@
     "timeMonth": 146,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-09-29": 224,
+      "2025-09-29": 236,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
@@ -1206,7 +1206,7 @@
     "timeMonth": 0,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-09-29": 224,
+      "2025-09-29": 237,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
@@ -1579,7 +1579,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.ml.ico",
     "slug": "ml",
     "status": "down",
-    "uptime": "52.55%",
+    "uptime": "52.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1590,7 +1590,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-29": 224,
+      "2025-09-29": 237,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
@@ -1962,13 +1962,13 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "37.42%",
+    "uptimeDay": "38.28%",
     "uptimeWeek": "75.30%",
     "uptimeMonth": "90.76%",
-    "uptimeYear": "99.21%",
-    "time": 1200,
+    "uptimeYear": "99.22%",
+    "time": 1201,
     "timeDay": 3483,
     "timeWeek": 2793,
     "timeMonth": 2627,
@@ -2003,8 +2003,7 @@
       "2025-08-31": 57,
       "2025-08-30": 19,
       "2025-08-29": 32,
-      "2025-08-28": 68,
-      "2025-08-25": 25
+      "2025-08-28": 68
     }
   },
   {
@@ -2024,7 +2023,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-29": 224,
+      "2025-09-29": 237,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
