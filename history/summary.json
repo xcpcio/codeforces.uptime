@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "78.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "21.87%",
-    "uptimeMonth": "81.57%",
+    "uptimeWeek": "21.59%",
+    "uptimeMonth": "81.51%",
     "uptimeYear": "16.13%",
     "time": 362,
     "timeDay": 178,
@@ -16,7 +16,7 @@
     "timeMonth": 976,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2025-10-02": 208,
+      "2025-10-02": 237,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
@@ -341,7 +341,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/polygon.codeforces.com.ico",
     "slug": "polygon",
     "status": "down",
-    "uptime": "81.37%",
+    "uptime": "81.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -352,7 +352,7 @@
     "timeMonth": 166,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2025-10-02": 208,
+      "2025-10-02": 237,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
@@ -726,7 +726,7 @@
     "timeMonth": 152,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-10-02": 209,
+      "2025-10-02": 237,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
@@ -1206,7 +1206,7 @@
     "timeMonth": 0,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-10-02": 209,
+      "2025-10-02": 237,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
@@ -1590,7 +1590,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-02": 209,
+      "2025-10-02": 237,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
@@ -1962,13 +1962,13 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "70.66%",
+    "uptimeDay": "70.62%",
     "uptimeWeek": "66.80%",
-    "uptimeMonth": "89.50%",
-    "uptimeYear": "99.12%",
-    "time": 1219,
+    "uptimeMonth": "89.54%",
+    "uptimeYear": "99.13%",
+    "time": 1220,
     "timeDay": 2611,
     "timeWeek": 3081,
     "timeMonth": 2837,
@@ -1994,8 +1994,7 @@
       "2025-09-14": 169,
       "2025-09-13": 41,
       "2025-09-12": 196,
-      "2025-09-11": 34,
-      "2025-09-10": 21
+      "2025-09-11": 34
     }
   },
   {
@@ -2015,7 +2014,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-02": 209,
+      "2025-10-02": 237,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
