@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.com.ico",
     "slug": "codeforces",
     "status": "up",
-    "uptime": "78.70%",
+    "uptime": "78.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "76.99%",
-    "uptimeYear": "19.20%",
-    "time": 384,
-    "timeDay": 643,
-    "timeWeek": 457,
-    "timeMonth": 751,
-    "timeYear": 407,
+    "uptimeYear": "19.27%",
+    "time": 385,
+    "timeDay": 546,
+    "timeWeek": 463,
+    "timeMonth": 756,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2025-10-03": 897,
       "2025-10-02": 1440,
@@ -320,8 +320,7 @@
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
-      "2024-10-16": 1440,
-      "2024-10-15": 1440
+      "2024-10-16": 1440
     }
   },
   {
@@ -330,18 +329,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/polygon.codeforces.com.ico",
     "slug": "polygon",
     "status": "down",
-    "uptime": "80.77%",
+    "uptime": "80.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "17.24%",
-    "time": 730,
-    "timeDay": 130,
-    "timeWeek": 124,
-    "timeMonth": 154,
-    "timeYear": 483,
+    "uptimeYear": "17.17%",
+    "time": 729,
+    "timeDay": 177,
+    "timeWeek": 125,
+    "timeMonth": 155,
+    "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-10-14": 1165,
+      "2025-10-15": 112,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -670,10 +670,10 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.13%",
     "time": 879,
-    "timeDay": 972,
-    "timeWeek": 1229,
-    "timeMonth": 937,
-    "timeYear": 896,
+    "timeDay": 954,
+    "timeWeek": 1227,
+    "timeMonth": 941,
+    "timeYear": 897,
     "dailyMinutesDown": {
       "2025-10-08": 189,
       "2025-10-03": 18,
@@ -716,18 +716,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/m2.codeforces.com.ico",
     "slug": "m2",
     "status": "down",
-    "uptime": "74.73%",
+    "uptime": "74.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.01%",
     "time": 133,
-    "timeDay": 182,
-    "timeWeek": 128,
-    "timeMonth": 151,
+    "timeDay": 144,
+    "timeWeek": 125,
+    "timeMonth": 150,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-10-14": 1165,
+      "2025-10-15": 112,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -1090,8 +1091,7 @@
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
-      "2024-10-16": 1440,
-      "2024-10-15": 1440
+      "2024-10-16": 1440
     }
   },
   {
@@ -1106,9 +1106,9 @@
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.16%",
     "time": 713,
-    "timeDay": 700,
+    "timeDay": 652,
     "timeWeek": 651,
-    "timeMonth": 696,
+    "timeMonth": 698,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2025-10-13": 32,
@@ -1210,7 +1210,8 @@
     "timeMonth": 0,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-10-14": 1165,
+      "2025-10-15": 112,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -1573,8 +1574,7 @@
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
-      "2024-10-16": 1440,
-      "2024-10-15": 1440
+      "2024-10-16": 1440
     }
   },
   {
@@ -1583,7 +1583,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.ml.ico",
     "slug": "ml",
     "status": "down",
-    "uptime": "52.07%",
+    "uptime": "52.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1594,7 +1594,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-14": 1165,
+      "2025-10-15": 112,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -1957,8 +1958,7 @@
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
-      "2024-10-16": 1440,
-      "2024-10-15": 1440
+      "2024-10-16": 1440
     }
   },
   {
@@ -1972,11 +1972,11 @@
     "uptimeWeek": "97.66%",
     "uptimeMonth": "89.65%",
     "uptimeYear": "99.14%",
-    "time": 1292,
-    "timeDay": 1778,
-    "timeWeek": 3024,
-    "timeMonth": 2765,
-    "timeYear": 1289,
+    "time": 1293,
+    "timeDay": 1540,
+    "timeWeek": 3078,
+    "timeMonth": 2779,
+    "timeYear": 1290,
     "dailyMinutesDown": {
       "2025-10-14": 15,
       "2025-10-13": 43,
@@ -2011,7 +2011,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.ga.ico",
     "slug": "ga",
     "status": "down",
-    "uptime": "28.15%",
+    "uptime": "28.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2022,7 +2022,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-14": 1165,
+      "2025-10-15": 112,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -2385,8 +2386,7 @@
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
-      "2024-10-16": 1440,
-      "2024-10-15": 1440
+      "2024-10-16": 1440
     }
   }
 ]
