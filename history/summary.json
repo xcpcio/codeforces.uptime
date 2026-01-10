@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "67.80%",
-    "uptimeYear": "33.91%",
+    "uptimeYear": "33.97%",
     "time": 376,
     "timeDay": 481,
     "timeWeek": 445,
@@ -284,7 +284,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/polygon.codeforces.com.ico",
     "slug": "polygon",
     "status": "down",
-    "uptime": "76.89%",
+    "uptime": "76.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -295,7 +295,7 @@
     "timeMonth": 118,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-01-10": 125,
+      "2026-01-10": 444,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -720,7 +720,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/m2.codeforces.com.ico",
     "slug": "m2",
     "status": "down",
-    "uptime": "71.14%",
+    "uptime": "71.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -731,7 +731,7 @@
     "timeMonth": 98,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2026-01-10": 125,
+      "2026-01-10": 444,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -1218,7 +1218,7 @@
     "timeMonth": 0,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2026-01-10": 125,
+      "2026-01-10": 444,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -1591,7 +1591,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.ml.ico",
     "slug": "ml",
     "status": "down",
-    "uptime": "49.57%",
+    "uptime": "49.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1602,7 +1602,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 125,
+      "2026-01-10": 444,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -1974,9 +1974,9 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.31%",
+    "uptimeDay": "98.27%",
     "uptimeWeek": "97.75%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "99.35%",
@@ -1986,6 +1986,7 @@
     "timeMonth": 1393,
     "timeYear": 1429,
     "dailyMinutesDown": {
+      "2026-01-10": 1,
       "2026-01-09": 24,
       "2026-01-08": 60,
       "2026-01-07": 16,
@@ -2048,7 +2049,7 @@
       "2025-10-05": 25,
       "2025-10-03": 75,
       "2025-10-02": 252,
-      "2025-10-01": 187
+      "2025-10-01": 165
     }
   },
   {
@@ -2068,7 +2069,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 125,
+      "2026-01-10": 445,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
