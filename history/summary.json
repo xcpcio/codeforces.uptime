@@ -8,8 +8,8 @@
     "uptime": "78.09%",
     "uptimeDay": "82.71%",
     "uptimeWeek": "97.53%",
-    "uptimeMonth": "71.98%",
-    "uptimeYear": "34.68%",
+    "uptimeMonth": "72.46%",
+    "uptimeYear": "34.72%",
     "time": 376,
     "timeDay": 416,
     "timeWeek": 422,
@@ -293,7 +293,7 @@
     "timeMonth": 116,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-01-13": 125,
+      "2026-01-13": 334,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -729,7 +729,7 @@
     "timeMonth": 98,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2026-01-13": 125,
+      "2026-01-13": 334,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -1101,18 +1101,19 @@
     "url": "https://m3.codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/m3.codeforces.com.ico",
     "slug": "m3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.65%",
+    "uptimeDay": "97.62%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 720,
     "timeDay": 600,
     "timeWeek": 647,
     "timeMonth": 676,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2026-01-12": 34,
       "2026-01-04": 45,
       "2026-01-01": 20,
@@ -1196,8 +1197,7 @@
       "2025-04-06": 24,
       "2025-04-03": 27,
       "2025-04-02": 22,
-      "2025-03-30": 19,
-      "2025-03-27": 25
+      "2025-03-30": 19
     }
   },
   {
@@ -1217,7 +1217,7 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-01-13": 126,
+      "2026-01-13": 334,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -1590,7 +1590,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.ml.ico",
     "slug": "ml",
     "status": "down",
-    "uptime": "49.49%",
+    "uptime": "49.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1601,7 +1601,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-13": 126,
+      "2026-01-13": 334,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -2069,7 +2069,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-13": 126,
+      "2026-01-13": 335,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
