@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.27%",
-    "uptimeYear": "39.79%",
+    "uptimeYear": "39.81%",
     "time": 375,
     "timeDay": 888,
     "timeWeek": 511,
@@ -277,7 +277,7 @@
     "timeMonth": 122,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2026-01-31": 1143,
+      "2026-01-31": 1223,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -715,7 +715,7 @@
     "timeMonth": 107,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2026-01-31": 1143,
+      "2026-01-31": 1223,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1090,7 +1090,7 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "98.24%",
     "uptimeYear": "99.14%",
     "time": 732,
@@ -1203,7 +1203,7 @@
     "timeMonth": 0,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2026-01-31": 1143,
+      "2026-01-31": 1223,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1587,7 +1587,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 1143,
+      "2026-01-31": 1223,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1959,9 +1959,9 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "98.77%",
     "uptimeWeek": "95.18%",
     "uptimeMonth": "96.83%",
     "uptimeYear": "99.32%",
@@ -1969,7 +1969,7 @@
     "timeDay": 1349,
     "timeWeek": 1246,
     "timeMonth": 1441,
-    "timeYear": 1475,
+    "timeYear": 1474,
     "dailyMinutesDown": {
       "2026-01-31": 17,
       "2026-01-30": 95,
@@ -2039,7 +2039,7 @@
       "2025-10-23": 25,
       "2025-10-21": 36,
       "2025-10-20": 174,
-      "2025-10-17": 46
+      "2025-10-17": 23
     }
   },
   {
@@ -2059,7 +2059,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 1144,
+      "2026-01-31": 1224,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
