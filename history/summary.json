@@ -6,12 +6,12 @@
     "slug": "codeforces",
     "status": "up",
     "uptime": "78.40%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.97%",
     "uptimeMonth": "98.80%",
-    "uptimeYear": "41.95%",
+    "uptimeYear": "41.98%",
     "time": 408,
-    "timeDay": 529,
+    "timeDay": 608,
     "timeWeek": 1844,
     "timeMonth": 962,
     "timeYear": 530,
@@ -271,7 +271,7 @@
     "timeMonth": 120,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2026-02-08": 1154,
+      "2026-02-08": 1320,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -711,7 +711,7 @@
     "timeMonth": 112,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2026-02-08": 1154,
+      "2026-02-08": 1320,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -1083,9 +1083,9 @@
     "url": "https://m3.codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/m3.codeforces.com.ico",
     "slug": "m3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.14%",
@@ -1095,6 +1095,7 @@
     "timeMonth": 912,
     "timeYear": 737,
     "dailyMinutesDown": {
+      "2026-02-08": 0,
       "2026-01-26": 21,
       "2026-01-25": 29,
       "2026-01-24": 42,
@@ -1178,8 +1179,7 @@
       "2025-04-14": 110,
       "2025-04-13": 3,
       "2025-04-12": 16,
-      "2025-04-09": 27,
-      "2025-04-08": 27
+      "2025-04-09": 27
     }
   },
   {
@@ -1199,7 +1199,7 @@
     "timeMonth": 0,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2026-02-08": 1154,
+      "2026-02-08": 1320,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -1583,7 +1583,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-08": 1154,
+      "2026-02-08": 1320,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -1958,7 +1958,7 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "98.02%",
-    "uptimeWeek": "96.79%",
+    "uptimeWeek": "96.80%",
     "uptimeMonth": "96.61%",
     "uptimeYear": "99.28%",
     "time": 1464,
@@ -2058,7 +2058,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-08": 1154,
+      "2026-02-08": 1321,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
