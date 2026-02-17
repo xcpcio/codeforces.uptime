@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.72%",
     "uptimeMonth": "99.08%",
-    "uptimeYear": "44.34%",
+    "uptimeYear": "44.35%",
     "time": 413,
     "timeDay": 506,
     "timeWeek": 450,
@@ -264,7 +264,7 @@
     "timeMonth": 122,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2026-02-17": 875,
+      "2026-02-17": 931,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -641,7 +641,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.06%",
     "uptimeMonth": "96.79%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.10%",
     "time": 937,
     "timeDay": 824,
     "timeWeek": 777,
@@ -703,7 +703,7 @@
     "timeMonth": 113,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-02-17": 875,
+      "2026-02-17": 931,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -1191,7 +1191,7 @@
     "timeMonth": 0,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2026-02-17": 876,
+      "2026-02-17": 932,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -1575,7 +1575,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-17": 876,
+      "2026-02-17": 932,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -1947,19 +1947,19 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "91.51%",
-    "uptimeWeek": "94.56%",
+    "uptimeDay": "91.47%",
+    "uptimeWeek": "94.55%",
     "uptimeMonth": "95.74%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.21%",
     "time": 1480,
     "timeDay": 976,
     "timeWeek": 1080,
     "timeMonth": 1128,
     "timeYear": 1494,
     "dailyMinutesDown": {
-      "2026-02-17": 57,
+      "2026-02-17": 58,
       "2026-02-16": 65,
       "2026-02-15": 30,
       "2026-02-14": 33,
@@ -2033,7 +2033,7 @@
       "2025-11-01": 33,
       "2025-10-31": 23,
       "2025-10-30": 74,
-      "2025-10-29": 48
+      "2025-10-29": 19
     }
   },
   {
@@ -2053,7 +2053,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-17": 876,
+      "2026-02-17": 932,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
