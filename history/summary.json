@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.com.ico",
     "slug": "codeforces",
     "status": "down",
-    "uptime": "78.27%",
+    "uptime": "78.26%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "4.51%",
-    "uptimeMonth": "75.91%",
+    "uptimeWeek": "4.39%",
+    "uptimeMonth": "75.88%",
     "uptimeYear": "45.52%",
     "time": 419,
     "timeDay": 155,
@@ -16,7 +16,7 @@
     "timeMonth": 767,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2026-02-28": 1427,
+      "2026-02-28": 1438,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -262,7 +262,7 @@
     "timeMonth": 110,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2026-02-28": 1427,
+      "2026-02-28": 1438,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -702,7 +702,7 @@
     "timeMonth": 106,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-02-28": 1427,
+      "2026-02-28": 1438,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -1190,7 +1190,7 @@
     "timeMonth": 0,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-02-28": 1427,
+      "2026-02-28": 1438,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -1574,7 +1574,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-28": 1427,
+      "2026-02-28": 1438,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -1946,19 +1946,19 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "88.06%",
-    "uptimeWeek": "92.35%",
+    "uptimeDay": "88.64%",
+    "uptimeWeek": "92.34%",
     "uptimeMonth": "94.03%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.15%",
     "time": 1484,
-    "timeDay": 961,
+    "timeDay": 901,
     "timeWeek": 1183,
     "timeMonth": 1140,
     "timeYear": 1493,
     "dailyMinutesDown": {
-      "2026-02-28": 163,
+      "2026-02-28": 164,
       "2026-02-27": 176,
       "2026-02-26": 91,
       "2026-02-25": 79,
@@ -2019,8 +2019,7 @@
       "2025-12-12": 203,
       "2025-12-11": 36,
       "2025-12-09": 41,
-      "2025-12-08": 33,
-      "2025-12-06": 76
+      "2025-12-08": 33
     }
   },
   {
@@ -2040,7 +2039,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-28": 1427,
+      "2026-02-28": 1439,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
