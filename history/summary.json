@@ -8,13 +8,13 @@
     "uptime": "76.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "28.75%",
-    "uptimeYear": "48.06%",
+    "uptimeMonth": "28.96%",
+    "uptimeYear": "48.08%",
     "time": 428,
     "timeDay": 554,
     "timeWeek": 587,
     "timeMonth": 252,
-    "timeYear": 554,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2026-04-15": 842,
       "2026-04-14": 1440,
@@ -253,7 +253,7 @@
     "timeMonth": 120,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-04-24": 1313,
+      "2026-04-24": 1403,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -679,7 +679,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/m2.codeforces.com.ico",
     "slug": "m2",
     "status": "down",
-    "uptime": "67.26%",
+    "uptime": "67.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -690,7 +690,7 @@
     "timeMonth": 102,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2026-04-24": 1314,
+      "2026-04-24": 1403,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -1062,12 +1062,12 @@
     "url": "https://m3.codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/m3.codeforces.com.ico",
     "slug": "m3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "91.75%",
+    "uptimeDay": "91.72%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "98.99%",
     "time": 736,
     "timeDay": 617,
     "timeWeek": 647,
@@ -1158,8 +1158,7 @@
       "2025-05-24": 25,
       "2025-05-21": 17,
       "2025-05-20": 18,
-      "2025-05-19": 41,
-      "2025-05-14": 22
+      "2025-05-19": 41
     }
   },
   {
@@ -1177,9 +1176,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 103,
+    "timeYear": 104,
     "dailyMinutesDown": {
-      "2026-04-24": 1314,
+      "2026-04-24": 1403,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -1563,7 +1562,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-24": 1314,
+      "2026-04-24": 1403,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -1945,7 +1944,7 @@
     "timeDay": 923,
     "timeWeek": 1967,
     "timeMonth": 1513,
-    "timeYear": 1597,
+    "timeYear": 1598,
     "dailyMinutesDown": {
       "2026-04-24": 167,
       "2026-04-23": 191,
@@ -2012,7 +2011,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-24": 1314,
+      "2026-04-24": 1403,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
