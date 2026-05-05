@@ -8,8 +8,8 @@
     "uptime": "76.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.92%",
-    "uptimeYear": "51.05%",
+    "uptimeMonth": "68.31%",
+    "uptimeYear": "51.08%",
     "time": 441,
     "timeDay": 557,
     "timeWeek": 519,
@@ -242,7 +242,7 @@
     "timeMonth": 118,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2026-05-05": 1189,
+      "2026-05-05": 1359,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
@@ -667,7 +667,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/m2.codeforces.com.ico",
     "slug": "m2",
     "status": "down",
-    "uptime": "66.88%",
+    "uptime": "66.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -678,7 +678,7 @@
     "timeMonth": 109,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2026-05-05": 1190,
+      "2026-05-05": 1360,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
@@ -1166,7 +1166,7 @@
     "timeMonth": 0,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2026-05-05": 1190,
+      "2026-05-05": 1360,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
@@ -1550,7 +1550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-05": 1190,
+      "2026-05-05": 1360,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
@@ -1922,17 +1922,17 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "87.71%",
-    "uptimeWeek": "89.62%",
+    "uptimeDay": "87.68%",
+    "uptimeWeek": "89.61%",
     "uptimeMonth": "90.56%",
-    "uptimeYear": "98.48%",
-    "time": 1597,
+    "uptimeYear": "98.49%",
+    "time": 1598,
     "timeDay": 1549,
     "timeWeek": 1734,
     "timeMonth": 1576,
-    "timeYear": 1673,
+    "timeYear": 1674,
     "dailyMinutesDown": {
       "2026-05-05": 177,
       "2026-05-03": 81,
@@ -1979,8 +1979,7 @@
       "2026-03-17": 184,
       "2026-03-16": 113,
       "2026-03-15": 144,
-      "2026-03-14": 291,
-      "2026-03-13": 56
+      "2026-03-14": 291
     }
   },
   {
@@ -2000,7 +1999,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-05": 1190,
+      "2026-05-05": 1360,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
