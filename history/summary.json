@@ -4,17 +4,17 @@
     "url": "https://codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.com.ico",
     "slug": "codeforces",
-    "status": "down",
-    "uptime": "77.27%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "66.08%",
+    "status": "up",
+    "uptime": "77.26%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "66.09%",
     "time": 475,
-    "timeDay": 248,
-    "timeWeek": 450,
-    "timeMonth": 438,
-    "timeYear": 611,
+    "timeDay": 278,
+    "timeWeek": 438,
+    "timeMonth": 435,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2025-07-27": 408,
       "2025-07-26": 1440,
@@ -171,7 +171,7 @@
       "2026-05-19": 398,
       "2026-06-19": 105,
       "2026-06-18": 424,
-      "2026-06-30": 3
+      "2026-06-30": 96
     }
   },
   {
@@ -179,17 +179,17 @@
     "url": "https://polygon.codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/polygon.codeforces.com.ico",
     "slug": "polygon",
-    "status": "down",
+    "status": "up",
     "uptime": "73.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "14.90%",
-    "time": 191,
-    "timeDay": 284,
-    "timeWeek": 585,
-    "timeMonth": 633,
-    "timeYear": 218,
+    "time": 192,
+    "timeDay": 376,
+    "timeWeek": 583,
+    "timeMonth": 640,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2026-05-06": 284,
       "2026-05-05": 1440,
@@ -507,7 +507,7 @@
       "2026-05-30": 69,
       "2026-06-19": 105,
       "2026-06-18": 424,
-      "2026-06-30": 3
+      "2026-06-30": 96
     }
   },
   {
@@ -515,16 +515,16 @@
     "url": "https://m1.codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/m1.codeforces.com.ico",
     "slug": "m1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.09%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "99.07%",
     "time": 926,
-    "timeDay": 800,
-    "timeWeek": 823,
-    "timeMonth": 803,
+    "timeDay": 913,
+    "timeWeek": 852,
+    "timeMonth": 812,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2025-07-24": 271,
@@ -562,7 +562,7 @@
       "2026-06-23": 203,
       "2026-06-24": 135,
       "2026-06-25": 91,
-      "2026-06-30": 2
+      "2026-06-30": 96
     }
   },
   {
@@ -570,17 +570,17 @@
     "url": "https://m2.codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/m2.codeforces.com.ico",
     "slug": "m2",
-    "status": "down",
+    "status": "up",
     "uptime": "67.75%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.79%",
+    "uptimeDay": "93.35%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "14.93%",
     "time": 147,
-    "timeDay": 194,
-    "timeWeek": 355,
-    "timeMonth": 370,
-    "timeYear": 162,
+    "timeDay": 197,
+    "timeWeek": 338,
+    "timeMonth": 365,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2026-05-06": 284,
       "2026-05-05": 1440,
@@ -896,7 +896,7 @@
       "2026-05-19": 398,
       "2026-06-19": 106,
       "2026-06-18": 424,
-      "2026-06-30": 2
+      "2026-06-30": 96
     }
   },
   {
@@ -1004,7 +1004,7 @@
     "timeMonth": 0,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-06-30": 1015,
+      "2026-06-30": 1110,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -1388,7 +1388,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1015,
+      "2026-06-30": 1110,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -1760,17 +1760,17 @@
     "url": "https://codeforces.cc",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.cc.ico",
     "slug": "cc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "92.33%",
-    "uptimeYear": "97.77%",
-    "time": 1799,
-    "timeDay": 1133,
-    "timeWeek": 1198,
-    "timeMonth": 1375,
-    "timeYear": 1958,
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "94.59%",
+    "uptimeMonth": "92.11%",
+    "uptimeYear": "97.76%",
+    "time": 1798,
+    "timeDay": 968,
+    "timeWeek": 1162,
+    "timeMonth": 1364,
+    "timeYear": 1957,
     "dailyMinutesDown": {
       "2026-04-06": 68,
       "2026-04-07": 296,
@@ -1833,7 +1833,7 @@
       "2026-06-25": 94,
       "2026-06-27": 69,
       "2026-06-28": 288,
-      "2026-06-30": 1
+      "2026-06-30": 95
     }
   },
   {
@@ -1853,7 +1853,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1016,
+      "2026-06-30": 1110,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
