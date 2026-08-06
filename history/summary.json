@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.com.ico",
     "slug": "codeforces",
     "status": "up",
-    "uptime": "77.58%",
+    "uptime": "77.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.11%",
     "uptimeYear": "72.85%",
-    "time": 496,
-    "timeDay": 496,
-    "timeWeek": 465,
-    "timeMonth": 411,
-    "timeYear": 626,
+    "time": 497,
+    "timeDay": 560,
+    "timeWeek": 487,
+    "timeMonth": 412,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2025-08-11": 348,
       "2025-08-16": 502,
@@ -160,12 +160,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.11%",
-    "uptimeYear": "24.32%",
-    "time": 230,
-    "timeDay": 698,
-    "timeWeek": 669,
-    "timeMonth": 625,
-    "timeYear": 270,
+    "uptimeYear": "24.37%",
+    "time": 231,
+    "timeDay": 763,
+    "timeWeek": 682,
+    "timeMonth": 623,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2026-05-06": 284,
       "2026-05-05": 1440,
@@ -440,7 +440,6 @@
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
-      "2025-08-06": 1440,
       "2026-05-07": 102,
       "2026-05-20": 526,
       "2026-05-19": 398,
@@ -465,9 +464,9 @@
     "uptimeMonth": "95.65%",
     "uptimeYear": "98.77%",
     "time": 939,
-    "timeDay": 868,
-    "timeWeek": 793,
-    "timeMonth": 1083,
+    "timeDay": 879,
+    "timeWeek": 813,
+    "timeMonth": 1066,
     "timeYear": 959,
     "dailyMinutesDown": {
       "2025-08-11": 261,
@@ -522,12 +521,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.11%",
-    "uptimeYear": "24.35%",
+    "uptimeYear": "24.40%",
     "time": 164,
-    "timeDay": 408,
-    "timeWeek": 342,
-    "timeMonth": 325,
-    "timeYear": 184,
+    "timeDay": 493,
+    "timeWeek": 358,
+    "timeMonth": 324,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2026-05-06": 284,
       "2026-05-05": 1440,
@@ -802,7 +801,6 @@
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
-      "2025-08-06": 1440,
       "2026-05-20": 526,
       "2026-05-19": 398,
       "2026-06-19": 106,
@@ -825,8 +823,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 730,
-    "timeDay": 732,
-    "timeWeek": 692,
+    "timeDay": 725,
+    "timeWeek": 721,
     "timeMonth": 678,
     "timeYear": 745,
     "dailyMinutesDown": {
@@ -913,7 +911,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-05": 1362,
+      "2026-08-06": 193,
+      "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
@@ -1276,8 +1275,7 @@
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
-      "2025-08-07": 1440,
-      "2025-08-06": 1440
+      "2025-08-07": 1440
     }
   },
   {
@@ -1286,7 +1284,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.ml.ico",
     "slug": "ml",
     "status": "down",
-    "uptime": "44.48%",
+    "uptime": "44.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1297,7 +1295,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-05": 1362,
+      "2026-08-06": 193,
+      "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
@@ -1660,8 +1659,7 @@
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
-      "2025-08-07": 1440,
-      "2025-08-06": 1440
+      "2025-08-07": 1440
     }
   },
   {
@@ -1675,11 +1673,11 @@
     "uptimeWeek": "89.93%",
     "uptimeMonth": "92.18%",
     "uptimeYear": "97.56%",
-    "time": 1887,
-    "timeDay": 4502,
-    "timeWeek": 2207,
-    "timeMonth": 1958,
-    "timeYear": 2022,
+    "time": 1894,
+    "timeDay": 4298,
+    "timeWeek": 2761,
+    "timeMonth": 2102,
+    "timeYear": 2030,
     "dailyMinutesDown": {
       "2026-04-25": 96,
       "2026-04-26": 324,
@@ -1767,7 +1765,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-05": 1362,
+      "2026-08-06": 193,
+      "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
@@ -2130,8 +2129,7 @@
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
-      "2025-08-07": 1440,
-      "2025-08-06": 1440
+      "2025-08-07": 1440
     }
   }
 ]
