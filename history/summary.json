@@ -12,7 +12,7 @@
     "uptimeYear": "72.89%",
     "time": 500,
     "timeDay": 511,
-    "timeWeek": 424,
+    "timeWeek": 414,
     "timeMonth": 412,
     "timeYear": 589,
     "dailyMinutesDown": {
@@ -156,14 +156,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/polygon.codeforces.com.ico",
     "slug": "polygon",
     "status": "up",
-    "uptime": "73.50%",
+    "uptime": "73.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.03%",
     "uptimeMonth": "93.65%",
-    "uptimeYear": "26.50%",
+    "uptimeYear": "26.51%",
     "time": 243,
     "timeDay": 779,
-    "timeWeek": 547,
+    "timeWeek": 538,
     "timeMonth": 594,
     "timeYear": 283,
     "dailyMinutesDown": {
@@ -460,7 +460,7 @@
     "uptimeYear": "98.82%",
     "time": 937,
     "timeDay": 864,
-    "timeWeek": 788,
+    "timeWeek": 793,
     "timeMonth": 982,
     "timeYear": 959,
     "dailyMinutesDown": {
@@ -515,10 +515,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.77%",
     "uptimeMonth": "93.83%",
-    "uptimeYear": "26.54%",
+    "uptimeYear": "26.56%",
     "time": 170,
     "timeDay": 501,
-    "timeWeek": 369,
+    "timeWeek": 366,
     "timeMonth": 331,
     "timeYear": 191,
     "dailyMinutesDown": {
@@ -811,7 +811,7 @@
     "uptimeYear": "99.20%",
     "time": 729,
     "timeDay": 658,
-    "timeWeek": 628,
+    "timeWeek": 629,
     "timeMonth": 673,
     "timeYear": 747,
     "dailyMinutesDown": {
@@ -895,7 +895,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-14": 43,
+      "2026-08-14": 143,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -1279,7 +1279,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-14": 43,
+      "2026-08-14": 143,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -1653,13 +1653,13 @@
     "slug": "cc",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "94.76%",
-    "uptimeMonth": "92.55%",
-    "uptimeYear": "97.62%",
+    "uptimeDay": "92.93%",
+    "uptimeWeek": "93.76%",
+    "uptimeMonth": "92.32%",
+    "uptimeYear": "97.60%",
     "time": 1988,
     "timeDay": 163,
-    "timeWeek": 1511,
+    "timeWeek": 1545,
     "timeMonth": 2131,
     "timeYear": 2034,
     "dailyMinutesDown": {
@@ -1729,7 +1729,7 @@
       "2026-08-08": 132,
       "2026-08-09": 109,
       "2026-08-11": 145,
-      "2026-08-14": 1
+      "2026-08-14": 102
     }
   },
   {
@@ -1749,7 +1749,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-14": 43,
+      "2026-08-14": 144,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
