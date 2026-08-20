@@ -4,16 +4,16 @@
     "url": "https://codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.com.ico",
     "slug": "codeforces",
-    "status": "down",
+    "status": "up",
     "uptime": "77.74%",
-    "uptimeDay": "89.55%",
-    "uptimeWeek": "97.09%",
-    "uptimeMonth": "93.15%",
+    "uptimeDay": "87.54%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "72.93%",
-    "time": 504,
-    "timeDay": 327,
-    "timeWeek": 424,
-    "timeMonth": 408,
+    "time": 505,
+    "timeDay": 337,
+    "timeWeek": 418,
+    "timeMonth": 407,
     "timeYear": 551,
     "dailyMinutesDown": {
       "2025-08-25": 393,
@@ -148,7 +148,7 @@
       "2026-07-26": 205,
       "2026-08-10": 124,
       "2026-08-14": 143,
-      "2026-08-20": 150
+      "2026-08-20": 179
     }
   },
   {
@@ -888,7 +888,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-20": 1134,
+      "2026-08-20": 1164,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -1272,7 +1272,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-20": 1134,
+      "2026-08-20": 1164,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -1736,7 +1736,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-20": 1134,
+      "2026-08-20": 1164,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
